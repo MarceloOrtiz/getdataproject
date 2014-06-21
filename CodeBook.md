@@ -9,8 +9,8 @@ Objective: In this project I took data from Samsung from accelerometer and gyrom
 
 Data:
 The raw data contains 2 files named "X_test.txt" and "X_train.txt". Each containing 560 diferent variables.
-Each variable is represented in a column and each row represents a measurement. Different measurements were made sensors using
-an accelerometer and a gyrometer. There is another file called "features.txt" which contains all the variable names.
+Each variable is represented in a column and each row represents a measurement. Different measurements were made sensors using an accelerometer and a gyrometer. There is another file called "features.txt" which contains all the variable names.
+
 
 The following abbreviations were used for the variables.
 mean(): Mean value
